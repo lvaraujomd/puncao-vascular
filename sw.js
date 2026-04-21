@@ -1,4 +1,4 @@
-const CACHE = 'puncao-v1';
+const CACHE = 'puncao-v2';
 const ASSETS = [
   '/',
   '/index.html',
